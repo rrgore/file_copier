@@ -1,3 +1,3 @@
-# Port Scanner
+# File Copier
 
-Build Port Scanner using Rust
+Build a File Copier using Rust
