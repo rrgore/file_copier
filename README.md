@@ -1,1 +1,3 @@
-# port_scanner
+# Port Scanner
+
+Build Port Scanner using Rust
